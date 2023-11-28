@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c5b03c-24dc-4153-b9c7-41b8443e3b45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata2/HistogramCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata2/PersonLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kata2/TsvFileLoader.java" afterDir="false" />
+    <list default="true" id="91c5b03c-24dc-4153-b9c7-41b8443e3b45" name="Changes" comment="First commit, only with essentials functions and class.">
+      <change afterPath="$PROJECT_DIR$/src/kata2/WeightHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kata2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,11 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701187297691</updated>
-      <workItem from="1701187298736" duration="1888000" />
+      <workItem from="1701187298736" duration="2489000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit, only with essentials functions and class.">
+      <option name="closed" value="true" />
+      <created>1701189300991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701189300992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, only with essentials functions and class." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, only with essentials functions and class." />
   </component>
 </project>
